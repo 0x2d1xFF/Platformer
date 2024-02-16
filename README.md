@@ -1,2 +1,3 @@
-# Platformer
-2D game
+a laboratory activity
+
+basic 2D game
